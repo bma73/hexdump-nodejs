@@ -1,0 +1,25 @@
+{
+    "name": "hexdump-nodejs",
+    "version": "0.1.0",
+    "description": "Hexdump an ArrayBuffer to a String (NodeJS)",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/bma73/hexdump-nodejs.git"
+    },
+    "homepage": "https://github.com/bma73/hexdump-nodejs",
+    "keywords": [
+        "buffer",
+        "arraybuffer",
+        "dump",
+        "string",
+        "hex",
+        "nodejs"
+    ],
+    "author": {
+        "name": "Bjoern Acker",
+        "email": "me@bjoernacker.de",
+        "url": "http://www.bjoernacker.de"
+    },
+    "license": "MIT"
+}
