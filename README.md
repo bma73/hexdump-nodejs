@@ -1,4 +1,4 @@
-hexdump-js
+hexdump-nodejs
 =============
 Hexdump an ArrayBuffer to a String (NodeJS)
 
